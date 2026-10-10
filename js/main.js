@@ -14,7 +14,7 @@
   /* certains navigateurs bloquent l'autoplay : on relance les vidéos muettes */
   if (!reduced) {
     var wakeVideos = function () {
-      document.querySelectorAll("video[autoplay]").forEach(function (v) {
+      document.querySelectorAll("video[autoplay], video[data-active]").forEach(function (v) {
         if (v.paused) v.play().catch(function () {});
       });
     };
@@ -108,6 +108,21 @@
     resetAuto();
   }
 
+  /* Vidéos sous la ligne de flottaison : chargées et lancées à l'approche */
+  var lazyVids = document.querySelectorAll("video[data-lazyplay]");
+  if (lazyVids.length) {
+    var vio = new IntersectionObserver(function (entries) {
+      entries.forEach(function (e) {
+        if (!e.isIntersecting) return;
+        vio.unobserve(e.target);
+        e.target.preload = "auto";
+        e.target.dataset.active = "1";
+        if (!reduced) e.target.play().catch(function () {});
+      });
+    }, { rootMargin: "320px" });
+    lazyVids.forEach(function (v) { vio.observe(v); });
+  }
+
   /* Tracés japonais (Ensō, ligne zen, Seigaiha) : dessin au scroll */
   var drawSvgs = document.querySelectorAll(".draw-svg");
   if (drawSvgs.length && !reduced) {
@@ -174,7 +189,7 @@
 
       frame.addEventListener("pointerdown", function (e) {
         frame.classList.add("dragging");
-        frame.setPointerCapture(e.pointerId);
+        try { frame.setPointerCapture(e.pointerId); } catch (err) { /* capture indisponible : le glisser direct reste fonctionnel */ }
         fromEvent(e);
       });
       frame.addEventListener("pointermove", function (e) {

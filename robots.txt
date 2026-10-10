@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mrvision92.github.io/maven-hair/sitemap.xml
