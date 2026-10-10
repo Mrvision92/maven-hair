@@ -1,0 +1,48 @@
+- generic [active] [ref=f4e1]:
+  - generic [ref=f4e3]:
+    - generic [ref=f4e5]:
+      - banner [ref=f4e7]:
+        - heading "My Bookings" [level=1] [ref=f4e8]
+      - generic [ref=f4e10]:
+        - button "upcoming" [ref=f4e11]
+        - button "past" [ref=f4e13]
+      - generic [ref=f4e14]:
+        - button "Power Cycling 17:30 Tomorrow Booked Power Cycling Coach Sarah · Cycling Studio" [ref=f4e15]:
+          - generic [ref=f4e16]:
+            - img "Power Cycling" [ref=f4e17]
+            - generic [ref=f4e19]: 17:30
+          - generic [ref=f4e20]:
+            - generic [ref=f4e21]:
+              - paragraph [ref=f4e22]: Tomorrow
+              - generic [ref=f4e23]: Booked
+            - paragraph [ref=f4e24]: Power Cycling
+            - paragraph [ref=f4e26]: Coach Sarah · Cycling Studio
+        - 'button "Functional Training 19:00 Friday Waitlist #3 Functional Training Coach Thomas · Functional Zone" [ref=f4e27]':
+          - generic [ref=f4e28]:
+            - img "Functional Training" [ref=f4e29]
+            - generic [ref=f4e31]: 19:00
+          - generic [ref=f4e32]:
+            - generic [ref=f4e33]:
+              - paragraph [ref=f4e34]: Friday
+              - generic [ref=f4e35]: "Waitlist #3"
+            - paragraph [ref=f4e36]: Functional Training
+            - paragraph [ref=f4e38]: Coach Thomas · Functional Zone
+        - link [ref=f4e40] [cursor=pointer]:
+          - /url: /discover
+          - generic [ref=f4e41]:
+            - paragraph [ref=f4e42]: Recover after your session
+            - paragraph [ref=f4e43]: Continue your reset.
+            - generic [ref=f4e44]: Explore wellness
+    - navigation "Primary" [ref=f4e48]:
+      - generic [ref=f4e49]:
+        - link "Home" [ref=f4e50] [cursor=pointer]:
+          - /url: /
+        - link "Classes" [ref=f4e55] [cursor=pointer]:
+          - /url: /classes
+        - link "Bookings" [ref=f4e63] [cursor=pointer]:
+          - /url: /bookings
+        - link "Discover" [ref=f4e68] [cursor=pointer]:
+          - /url: /discover
+        - link "Profile" [ref=f4e73] [cursor=pointer]:
+          - /url: /profile
+  - alert [ref=f4e79]

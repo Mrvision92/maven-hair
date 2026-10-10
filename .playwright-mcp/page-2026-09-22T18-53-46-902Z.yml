@@ -1,0 +1,31 @@
+- generic [active] [ref=e1]:
+  - generic [aria-hidden]:
+    - generic: My Waer Waters
+    - generic: One resort, infinite sensations
+  - generic [ref=e4]:
+    - banner [ref=e5]:
+      - generic [ref=e6]:
+        - button "Back" [ref=e7]
+        - generic [ref=e10]: Member Pass
+    - generic [ref=e11]:
+      - generic [ref=e12]:
+        - generic [ref=e13]: Waer Waters
+        - generic [ref=e18]:
+          - paragraph [ref=e19]: Sophie Laurent
+          - generic [ref=e20]:
+            - generic [ref=e21]: Luxe
+            - generic [ref=e23]: Member since 2024
+        - paragraph [ref=e29]: Scan at entrance
+        - generic [ref=e30]: Active membership
+      - generic [ref=e33]:
+        - generic [ref=e34]:
+          - generic [ref=e35]: Gym access
+          - generic [ref=e36]: 07:00 — 23:00
+        - generic [ref=e37]:
+          - generic [ref=e38]: Wellness access
+          - generic [ref=e39]: Monday — Thursday
+        - generic [ref=e40]:
+          - generic [ref=e41]: Member ID
+          - generic [ref=e42]: WW-2024-08312
+      - paragraph [ref=e43]: Present this pass at the entrance turnstiles or at reception. Your pass refreshes automatically.
+  - alert [ref=e44]

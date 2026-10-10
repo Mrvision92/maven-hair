@@ -1,0 +1,134 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - banner [ref=e7]:
+        - generic [ref=e8]:
+          - heading "Good evening, Sophie" [level=1] [ref=e9]: Good evening,Sophie
+          - paragraph [ref=e10]: Time to unwind.
+        - generic [ref=e11]:
+          - link "Notifications" [ref=e12] [cursor=pointer]:
+            - /url: /notifications
+          - link "Profile" [ref=e17] [cursor=pointer]:
+            - /url: /profile
+            - img "Sophie Laurent" [ref=e18]
+      - link "View member pass" [ref=e20] [cursor=pointer]:
+        - /url: /pass
+        - generic [ref=e29]:
+          - generic [ref=e30]: Luxe member
+          - generic [ref=e35]:
+            - paragraph [ref=e36]: Sophie Laurent
+            - paragraph [ref=e37]: Member since 2024 · WW-2024-08312
+          - generic [ref=e38]: View member pass
+      - generic [ref=e48]:
+        - heading "Next up" [level=2] [ref=e50]
+        - link "Tomorrow Power Cycling Booked 17:30 — 18:30 · Cycling Studio · Coach Sarah View booking" [ref=e51] [cursor=pointer]:
+          - /url: /bookings
+          - generic [ref=e52]:
+            - generic [ref=e53]:
+              - generic [ref=e54]:
+                - paragraph [ref=e55]: Tomorrow
+                - heading "Power Cycling" [level=3] [ref=e56]
+              - generic [ref=e57]: Booked
+            - generic [ref=e58]:
+              - generic [ref=e59]: 17:30 — 18:30
+              - generic [ref=e60]: ·
+              - generic [ref=e61]: Cycling Studio
+              - generic [ref=e62]: ·
+              - generic [ref=e63]: Coach Sarah
+            - generic [ref=e64]: View booking
+      - generic [ref=e70]:
+        - generic [ref=e71]:
+          - heading "Tomorrow at Waer Waters" [level=2] [ref=e72]
+          - link "See all classes" [ref=e73] [cursor=pointer]:
+            - /url: /classes
+        - generic [ref=e74]:
+          - link [ref=e75] [cursor=pointer]:
+            - /url: /classes/d1-swim-technique-0700
+            - generic [ref=e76]:
+              - img "Swim Technique" [ref=e77]
+              - generic [ref=e79]:
+                - paragraph [ref=e80]: 07:00
+                - paragraph [ref=e81]: Swim Technique
+                - paragraph [ref=e82]: 5 spots
+          - link [ref=e83] [cursor=pointer]:
+            - /url: /classes/d1-hiit-circuit-0930
+            - generic [ref=e84]:
+              - img "HIIT Circuit" [ref=e85]
+              - generic [ref=e87]:
+                - paragraph [ref=e88]: 09:30
+                - paragraph [ref=e89]: HIIT Circuit
+                - paragraph [ref=e90]: 7 spots
+          - link [ref=e91] [cursor=pointer]:
+            - /url: /classes/d1-deep-stretch-1100
+            - generic [ref=e92]:
+              - img "Deep Stretch" [ref=e93]
+              - generic [ref=e95]:
+                - paragraph [ref=e96]: 11:00
+                - paragraph [ref=e97]: Deep Stretch
+                - paragraph [ref=e98]: 7 spots
+          - link [ref=e99] [cursor=pointer]:
+            - /url: /classes/d1-strength-foundations-1215
+            - generic [ref=e100]:
+              - img "Strength Foundations" [ref=e101]
+              - generic [ref=e103]:
+                - paragraph [ref=e104]: 12:15
+                - paragraph [ref=e105]: Strength Foundations
+                - paragraph [ref=e106]: 2 spots
+          - link [ref=e107] [cursor=pointer]:
+            - /url: /classes/d1-power-cycling-1730
+            - generic [ref=e108]:
+              - img "Power Cycling" [ref=e109]
+              - generic [ref=e111]:
+                - paragraph [ref=e112]: 17:30
+                - paragraph [ref=e113]: Power Cycling
+                - paragraph [ref=e114]: Booked
+          - link [ref=e115] [cursor=pointer]:
+            - /url: /classes/d1-functional-training-1830
+            - generic [ref=e116]:
+              - img "Functional Training" [ref=e117]
+              - generic [ref=e119]:
+                - paragraph [ref=e120]: 18:30
+                - paragraph [ref=e121]: Functional Training
+                - paragraph [ref=e122]: 5 spots
+          - link [ref=e123] [cursor=pointer]:
+            - /url: /classes/d1-yoga-flow-1900
+            - generic [ref=e124]:
+              - img "Yoga Flow" [ref=e125]
+              - generic [ref=e127]:
+                - paragraph [ref=e128]: 19:00
+                - paragraph [ref=e129]: Yoga Flow
+                - paragraph [ref=e130]: 2 spots
+          - link [ref=e131] [cursor=pointer]:
+            - /url: /classes/d1-ride-rhythm-2000
+            - generic [ref=e132]:
+              - img "Ride Rhythm" [ref=e133]
+              - generic [ref=e135]:
+                - paragraph [ref=e136]: 20:00
+                - paragraph [ref=e137]: Ride Rhythm
+                - paragraph [ref=e138]: 12 spots
+      - generic [ref=e140]:
+        - heading "After your workout" [level=2] [ref=e142]
+        - link [ref=e143] [cursor=pointer]:
+          - /url: /discover
+          - generic [ref=e144]:
+            - img "Wellness at Waer Waters" [ref=e145]
+            - generic [ref=e147]:
+              - paragraph [ref=e148]: Recover. Reset. Recharge.
+              - paragraph [ref=e149]: Wellness access is included with your Luxe membership today.
+              - generic [ref=e150]: Explore wellness
+      - link "Open member pass" [ref=e154] [cursor=pointer]:
+        - /url: /pass
+        - generic [ref=e161]: Pass
+    - navigation "Primary" [ref=e162]:
+      - generic [ref=e163]:
+        - link "Home" [ref=e164] [cursor=pointer]:
+          - /url: /
+        - link "Classes" [ref=e170] [cursor=pointer]:
+          - /url: /classes
+        - link "Bookings" [ref=e178] [cursor=pointer]:
+          - /url: /bookings
+        - link "Discover" [ref=e182] [cursor=pointer]:
+          - /url: /discover
+        - link "Profile" [ref=e187] [cursor=pointer]:
+          - /url: /profile
+  - alert [ref=e193]

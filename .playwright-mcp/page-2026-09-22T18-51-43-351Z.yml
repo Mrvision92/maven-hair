@@ -1,0 +1,140 @@
+- generic [active] [ref=f1e1]:
+  - generic [ref=f1e3]:
+    - generic [ref=f1e5]:
+      - banner [ref=f1e7]:
+        - heading "Classes" [level=1] [ref=f1e8]
+        - paragraph [ref=f1e9]: Move your way.
+      - generic [ref=f1e11]:
+        - button "TODAY 22" [ref=f1e12]:
+          - generic [ref=f1e13]: TODAY
+          - generic [ref=f1e14]: "22"
+        - button "WED 23" [ref=f1e15]:
+          - generic [ref=f1e16]: WED
+          - generic [ref=f1e17]: "23"
+        - button "THU 24" [ref=f1e18]:
+          - generic [ref=f1e20]: THU
+          - generic [ref=f1e21]: "24"
+        - button "FRI 25" [ref=f1e22]:
+          - generic [ref=f1e23]: FRI
+          - generic [ref=f1e24]: "25"
+        - button "SAT 26" [ref=f1e25]:
+          - generic [ref=f1e26]: SAT
+          - generic [ref=f1e27]: "26"
+        - button "SUN 27" [ref=f1e28]:
+          - generic [ref=f1e29]: SUN
+          - generic [ref=f1e30]: "27"
+        - button "MON 28" [ref=f1e31]:
+          - generic [ref=f1e32]: MON
+          - generic [ref=f1e33]: "28"
+      - generic [ref=f1e35]:
+        - button "All" [ref=f1e36]
+        - button "Functional" [ref=f1e37]
+        - button "Active" [ref=f1e38]
+        - button "Aquatic" [ref=f1e39]
+        - button "Yoga" [ref=f1e40]
+        - button "Cycling" [ref=f1e41]
+      - generic [ref=f1e42]:
+        - link "Sunrise Yoga 45 MIN 07:00 8 spots left Sunrise Yoga Coach Emma · Studio Zen Beginner friendly" [ref=f1e44] [cursor=pointer]:
+          - /url: /classes/d2-sunrise-yoga-0700
+          - generic [ref=f1e45]:
+            - generic [ref=f1e46]:
+              - img "Sunrise Yoga" [ref=f1e47]
+              - generic [ref=f1e48]: 45 MIN
+            - generic [ref=f1e49]:
+              - generic [ref=f1e50]:
+                - paragraph [ref=f1e51]: 07:00
+                - paragraph [ref=f1e53]: 8 spots left
+              - paragraph [ref=f1e54]: Sunrise Yoga
+              - paragraph [ref=f1e56]: Coach Emma · Studio Zen
+              - paragraph [ref=f1e57]: Beginner friendly
+        - link "Aqua Power 45 MIN 09:30 5 spots left Aqua Power Coach Lena · Aqua Pool Intermediate" [ref=f1e59] [cursor=pointer]:
+          - /url: /classes/d2-aqua-power-0930
+          - generic [ref=f1e60]:
+            - generic [ref=f1e61]:
+              - img "Aqua Power" [ref=f1e62]
+              - generic [ref=f1e63]: 45 MIN
+            - generic [ref=f1e64]:
+              - generic [ref=f1e65]:
+                - paragraph [ref=f1e66]: 09:30
+                - paragraph [ref=f1e68]: 5 spots left
+              - paragraph [ref=f1e69]: Aqua Power
+              - paragraph [ref=f1e71]: Coach Lena · Aqua Pool
+              - paragraph [ref=f1e72]: Intermediate
+        - link "Core & Mobility 45 MIN 12:15 6 spots left Core & Mobility Coach Thomas · Studio One All levels" [ref=f1e74] [cursor=pointer]:
+          - /url: /classes/d2-core-mobility-1215
+          - generic [ref=f1e75]:
+            - generic [ref=f1e76]:
+              - img "Core & Mobility" [ref=f1e77]
+              - generic [ref=f1e78]: 45 MIN
+            - generic [ref=f1e79]:
+              - generic [ref=f1e80]:
+                - paragraph [ref=f1e81]: 12:15
+                - paragraph [ref=f1e83]: 6 spots left
+              - paragraph [ref=f1e84]: Core & Mobility
+              - paragraph [ref=f1e86]: Coach Thomas · Studio One
+              - paragraph [ref=f1e87]: All levels
+        - link "Box & Burn 60 MIN 17:30 4 spots left Box & Burn Coach Maxim · Studio One Intermediate" [ref=f1e89] [cursor=pointer]:
+          - /url: /classes/d2-box-burn-1730
+          - generic [ref=f1e90]:
+            - generic [ref=f1e91]:
+              - img "Box & Burn" [ref=f1e92]
+              - generic [ref=f1e93]: 60 MIN
+            - generic [ref=f1e94]:
+              - generic [ref=f1e95]:
+                - paragraph [ref=f1e96]: 17:30
+                - paragraph [ref=f1e98]: 4 spots left
+              - paragraph [ref=f1e99]: Box & Burn
+              - paragraph [ref=f1e101]: Coach Maxim · Studio One
+              - paragraph [ref=f1e102]: Intermediate
+        - link "Power Cycling 60 MIN 18:30 4 spots left Power Cycling Coach Sarah · Cycling Studio Intermediate" [ref=f1e104] [cursor=pointer]:
+          - /url: /classes/d2-power-cycling-1830
+          - generic [ref=f1e105]:
+            - generic [ref=f1e106]:
+              - img "Power Cycling" [ref=f1e107]
+              - generic [ref=f1e108]: 60 MIN
+            - generic [ref=f1e109]:
+              - generic [ref=f1e110]:
+                - paragraph [ref=f1e111]: 18:30
+                - paragraph [ref=f1e113]: 4 spots left
+              - paragraph [ref=f1e114]: Power Cycling
+              - paragraph [ref=f1e116]: Coach Sarah · Cycling Studio
+              - paragraph [ref=f1e117]: Intermediate
+        - link "Yin & Restore 60 MIN 19:00 9 spots left Yin & Restore Coach Emma · Studio Zen All levels" [ref=f1e119] [cursor=pointer]:
+          - /url: /classes/d2-yin-restore-1900
+          - generic [ref=f1e120]:
+            - generic [ref=f1e121]:
+              - img "Yin & Restore" [ref=f1e122]
+              - generic [ref=f1e123]: 60 MIN
+            - generic [ref=f1e124]:
+              - generic [ref=f1e125]:
+                - paragraph [ref=f1e126]: 19:00
+                - paragraph [ref=f1e128]: 9 spots left
+              - paragraph [ref=f1e129]: Yin & Restore
+              - paragraph [ref=f1e131]: Coach Emma · Studio Zen
+              - paragraph [ref=f1e132]: All levels
+        - link "Functional Training 60 MIN 20:00 3 spots left Functional Training Coach Thomas · Functional Zone All levels" [ref=f1e134] [cursor=pointer]:
+          - /url: /classes/d2-functional-training-2000
+          - generic [ref=f1e135]:
+            - generic [ref=f1e136]:
+              - img "Functional Training" [ref=f1e137]
+              - generic [ref=f1e138]: 60 MIN
+            - generic [ref=f1e139]:
+              - generic [ref=f1e140]:
+                - paragraph [ref=f1e141]: 20:00
+                - paragraph [ref=f1e143]: 3 spots left
+              - paragraph [ref=f1e144]: Functional Training
+              - paragraph [ref=f1e146]: Coach Thomas · Functional Zone
+              - paragraph [ref=f1e147]: All levels
+    - navigation "Primary" [ref=f1e148]:
+      - generic [ref=f1e149]:
+        - link "Home" [ref=f1e150] [cursor=pointer]:
+          - /url: /
+        - link "Classes" [ref=f1e155] [cursor=pointer]:
+          - /url: /classes
+        - link "Bookings" [ref=f1e164] [cursor=pointer]:
+          - /url: /bookings
+        - link "Discover" [ref=f1e168] [cursor=pointer]:
+          - /url: /discover
+        - link "Profile" [ref=f1e173] [cursor=pointer]:
+          - /url: /profile
+  - alert [ref=f1e179]

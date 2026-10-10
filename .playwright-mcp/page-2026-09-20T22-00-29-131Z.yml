@@ -1,0 +1,349 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e8]:
+      - link [ref=e10] [cursor=pointer]:
+        - /url: ./
+        - heading "Éclat Aesthetics" [level=3] [ref=e12]
+      - generic [ref=e13]:
+        - link [ref=e15] [cursor=pointer]:
+          - /url: ./
+          - paragraph [ref=e17]: Home
+        - link [ref=e19] [cursor=pointer]:
+          - /url: ./services
+          - paragraph [ref=e21]: Services
+        - link [ref=e23] [cursor=pointer]:
+          - /url: ./prices
+          - paragraph [ref=e25]: Prices
+        - link [ref=e27] [cursor=pointer]:
+          - /url: ./about
+          - paragraph [ref=e29]: About
+        - link [ref=e31] [cursor=pointer]:
+          - /url: ./blog
+          - paragraph [ref=e33]: Blog
+      - link [ref=e35] [cursor=pointer]:
+        - /url: ./contact
+        - paragraph [ref=e37]: Contact
+    - generic [ref=e44]:
+      - generic [ref=e47]:
+        - generic [ref=e48]:
+          - generic [ref=e49]:
+            - heading "Refined Beauty. Expert Precision." [level=1] [ref=e52]:
+              - generic [ref=e53]:
+                - generic [ref=e54]: Refined
+                - generic [ref=e55]: Beauty.
+              - emphasis [ref=e56]
+              - emphasis
+              - emphasis [ref=e57]:
+                - generic [ref=e58]: Expert
+                - generic [ref=e59]: Precision.
+            - paragraph [ref=e61]: From brows and lashes to advanced aesthetic treatments, we enhance your natural beauty with expert care and precision.
+          - generic [ref=e62]:
+            - link [ref=e65] [cursor=pointer]:
+              - /url: ./contact
+              - paragraph [ref=e67]: Book Appontment
+            - link [ref=e76] [cursor=pointer]:
+              - /url: ./services
+              - paragraph [ref=e78]: View Treatments
+          - paragraph [ref=e86]: 5 ★ Rated Studio ● Certified Specialists ● Premium Products
+        - generic [ref=e87]:
+          - generic [ref=e88]:
+            - paragraph [ref=e93]: Brows
+            - paragraph [ref=e98]: Lashes
+            - paragraph [ref=e103]: Injectables
+          - generic [ref=e104]:
+            - paragraph [ref=e109]: Nails
+            - paragraph [ref=e114]: Skin Treatment
+      - generic [ref=e116]:
+        - generic [ref=e117]:
+          - generic [ref=e118]: 0+
+          - paragraph [ref=e121]: Years of Exprience
+        - generic [ref=e122]:
+          - generic [ref=e123]: 0+
+          - paragraph [ref=e126]: Happy Clients
+        - generic [ref=e127]:
+          - generic [ref=e128]: 0+
+          - paragraph [ref=e131]: Treatment Options
+        - generic [ref=e132]:
+          - generic [ref=e133]: 0%
+          - paragraph [ref=e136]: Satisfaction Rate
+      - generic [ref=e138]:
+        - paragraph [ref=e144]: Empower your skincare
+        - heading "The perfect balance between clinical expertise and refined beauty ." [level=2] [ref=e146]:
+          - generic [ref=e147]: The
+          - generic [ref=e148]: perfect
+          - generic [ref=e149]: balance
+          - generic [ref=e150]: between
+          - emphasis [ref=e152]:
+            - generic [ref=e153]: clinical
+            - generic [ref=e154]: expertise
+          - emphasis [ref=e155]
+          - generic [ref=e156]: and
+          - emphasis [ref=e158]:
+            - generic [ref=e159]: refined
+            - generic [ref=e160]: beauty
+          - emphasis [ref=e161]:
+            - generic [ref=e162]: .
+      - generic [ref=e164]:
+        - generic [ref=e166]:
+          - paragraph [ref=e171]: Seasonal Highlight
+          - heading "Platinum Glow Facial" [level=2] [ref=e173]:
+            - generic [ref=e174]: Platinum
+            - emphasis [ref=e176]:
+              - generic [ref=e177]: Glow
+              - generic [ref=e178]: Facial
+          - generic [ref=e179]:
+            - generic [ref=e180]:
+              - generic [ref=e182] [cursor=pointer]
+              - paragraph [ref=e185]: Luminous Complexion
+            - generic [ref=e186]:
+              - generic [ref=e188] [cursor=pointer]
+              - paragraph [ref=e191]: Advanced Japanese Technology
+            - generic [ref=e192]:
+              - generic [ref=e194] [cursor=pointer]
+              - paragraph [ref=e197]: Deep Cell Renewal
+          - link [ref=e199] [cursor=pointer]:
+            - /url: ./blog/platinum-glow-facial
+            - paragraph [ref=e201]: Learn More
+        - generic [ref=e207]:
+          - generic [ref=e208]:
+            - heading [level=3] [ref=e210]:
+              - text: Exclusive
+              - emphasis [ref=e212]: Summer
+              - text: Treatment
+            - paragraph [ref=e214]: Experience our most exclusive facial powered by cutting-edge Japanese skincare technology for radiant, youthful skin.
+            - link [ref=e217] [cursor=pointer]:
+              - /url: ./services/skin-treatments
+              - paragraph [ref=e219]: Discover Facials
+          - generic [ref=e225]:
+            - heading "Clinical-Grade Safety" [level=3] [ref=e228]
+            - paragraph [ref=e230]: All treatments are performed using carefully selected, medically approved formulations and advanced techniques to ensure safe, refined results.
+            - link [ref=e233] [cursor=pointer]:
+              - /url: ./about
+              - paragraph [ref=e235]: More About Éclat
+      - generic [ref=e242]:
+        - generic [ref=e243]:
+          - paragraph [ref=e249]: Our Services
+          - heading "What we offer." [level=2] [ref=e251]:
+            - generic [ref=e252]: What
+            - generic [ref=e253]: we
+            - emphasis [ref=e255]:
+              - generic [ref=e256]: offer.
+          - paragraph [ref=e258]: Feel the difference with expert care that restores and revitalizes.
+          - link [ref=e261] [cursor=pointer]:
+            - /url: ./services
+            - paragraph [ref=e263]: Full Services List
+        - generic [ref=e270]:
+          - generic [ref=e276]:
+            - paragraph [ref=e280]: Most Popular
+            - generic [ref=e281]:
+              - heading "Laser Hair Removal" [level=3] [ref=e283]
+              - paragraph [ref=e285]: A precise, clinically proven treatment designed to reduce unwanted hair and leave skin smooth, soft and effortlessly polished.
+            - link [ref=e288] [cursor=pointer]:
+              - /url: ./services/laser-hair-removal
+              - paragraph [ref=e290]: Explore Treatment
+          - generic [ref=e301]:
+            - paragraph [ref=e305]: Most Popular
+            - generic [ref=e306]:
+              - heading "Injectables" [level=3] [ref=e308]
+              - paragraph [ref=e310]: Refined, natural-looking enhancements performed with precision and care.
+            - link [ref=e313] [cursor=pointer]:
+              - /url: ./services/injectables
+              - paragraph [ref=e315]: Explore Treatment
+          - generic [ref=e326]:
+            - generic [ref=e327]:
+              - heading "Skin Treatments" [level=3] [ref=e329]
+              - paragraph [ref=e331]: Advanced treatments designed to restore glow and refine texture.
+            - link [ref=e334] [cursor=pointer]:
+              - /url: ./services/skin-treatments
+              - paragraph [ref=e336]: Explore Treatment
+          - generic [ref=e347]:
+            - generic [ref=e348]:
+              - heading "Nails" [level=3] [ref=e350]
+              - paragraph [ref=e352]: Strengthening and aesthetic nail treatments for polished results.
+            - link [ref=e355] [cursor=pointer]:
+              - /url: ./services/nails
+              - paragraph [ref=e357]: Explore Treatment
+          - generic [ref=e368]:
+            - generic [ref=e369]:
+              - heading "Lashes & Brows" [level=3] [ref=e371]
+              - paragraph [ref=e373]: Enhance definition and symmetry with tailored lash and brow treatments.
+            - link [ref=e376] [cursor=pointer]:
+              - /url: ./services/lashes-brows
+              - paragraph [ref=e378]: Explore Treatment
+      - generic [ref=e385]:
+        - generic [ref=e386]:
+          - paragraph [ref=e392]: Skin Analysis
+          - generic [ref=e393]:
+            - heading "Your journey to radiant skin." [level=2] [ref=e395]:
+              - generic [ref=e396]: Your
+              - generic [ref=e397]: journey
+              - generic [ref=e398]: to
+              - emphasis [ref=e400]:
+                - generic [ref=e401]: radiant
+                - generic [ref=e402]: skin.
+            - paragraph [ref=e404]: Our Advanced Skin Analysis Test provides a detailed insight into your skin's health, identifying concerns and helping you choose the most effective treatments.
+        - generic [ref=e405]:
+          - generic [ref=e406]:
+            - paragraph [ref=e408]: "{ Step 1 }"
+            - heading "In-Depth Analysis" [level=4] [ref=e410]
+            - paragraph [ref=e412]: We start with a personal skin analysis. Our specialists take the time to understand your unique skin needs and goals.
+          - generic [ref=e413]:
+            - paragraph [ref=e415]: "{ Step 2 }"
+            - heading "Custom Treatment Plan" [level=4] [ref=e417]
+            - paragraph [ref=e419]: We create a tailor-made plan targeting your skin type and condition, utilizing advanced techniques like microneedling and light therapy.
+          - generic [ref=e420]:
+            - paragraph [ref=e422]: "{ Step 3 }"
+            - heading "Lasting Results & Advice" [level=4] [ref=e424]
+            - paragraph [ref=e426]: See immediate results after treatment. We provide a clear plan for follow-up and advice on nutrition and skincare to support your skin from within.
+      - generic [ref=e428]:
+        - generic [ref=e429]:
+          - paragraph [ref=e435]: Testimonials
+          - heading "What our clients say" [level=2] [ref=e437]:
+            - generic [ref=e438]: What
+            - generic [ref=e439]: our
+            - emphasis [ref=e441]:
+              - generic [ref=e442]: clients
+            - generic [ref=e443]: say
+        - generic [ref=e444]:
+          - generic [ref=e447]:
+            - generic [ref=e449]:
+              - generic [ref=e451] [cursor=pointer]
+              - generic [ref=e454] [cursor=pointer]
+              - generic [ref=e457] [cursor=pointer]
+              - generic [ref=e460] [cursor=pointer]
+              - generic [ref=e463] [cursor=pointer]
+            - paragraph [ref=e466]: Subtle, balanced and beautifully natural. I feel like myself - just more refreshed.
+            - generic [ref=e467]:
+              - paragraph [ref=e469]: Lip Filler
+              - paragraph [ref=e471]: Jennifer K.
+          - generic [ref=e474]:
+            - generic [ref=e476]:
+              - generic [ref=e478] [cursor=pointer]
+              - generic [ref=e481] [cursor=pointer]
+              - generic [ref=e484] [cursor=pointer]
+              - generic [ref=e487] [cursor=pointer]
+              - generic [ref=e490] [cursor=pointer]
+            - paragraph [ref=e493]: My skin has never looked this luminous. Smooth, hydrated and glowing without makeup.
+            - generic [ref=e494]:
+              - paragraph [ref=e496]: Platinum Glow Facial
+              - paragraph [ref=e498]: Hannah W.
+          - generic [ref=e501]:
+            - generic [ref=e503]:
+              - generic [ref=e505] [cursor=pointer]
+              - generic [ref=e508] [cursor=pointer]
+              - generic [ref=e511] [cursor=pointer]
+              - generic [ref=e514] [cursor=pointer]
+              - generic [ref=e517] [cursor=pointer]
+            - paragraph [ref=e520]: Perfect shape, perfectly natural. It completely lifted my face without looking overdone.
+            - generic [ref=e521]:
+              - paragraph [ref=e523]: Brow Lamination
+              - paragraph [ref=e525]: E.
+      - generic [ref=e531]:
+        - generic [ref=e532]:
+          - paragraph [ref=e538]: Exclusive Launch
+          - heading "Summer Skin Soirée." [level=2] [ref=e540]:
+            - generic [ref=e541]: Summer
+            - generic [ref=e542]: Skin
+            - emphasis [ref=e544]:
+              - generic [ref=e545]: Soirée.
+          - paragraph [ref=e547]: An intimate evening unveiling our latest Hyrdo-Infusion technology - designed for radiant, natural-looking results.
+          - generic [ref=e548]:
+            - paragraph [ref=e550]: 🗓️ December 13
+            - paragraph [ref=e552]: ⏰ 7pm - 10pm
+            - paragraph [ref=e554]: 📍 Éclat Main Hall
+          - generic [ref=e555]:
+            - heading "The Experience" [level=5] [ref=e561] [cursor=pointer]
+            - heading "Why Attend" [level=5] [ref=e570] [cursor=pointer]
+        - generic [ref=e574]:
+          - link [ref=e577] [cursor=pointer]:
+            - /url: ./contact
+            - paragraph [ref=e579]: RSVP Now
+          - paragraph [ref=e587]: Limited guest list ● RSVP required
+      - generic [ref=e589]:
+        - generic [ref=e590]:
+          - paragraph [ref=e596]: FAQ
+          - heading "Have a question? We're here to help." [level=2] [ref=e598]:
+            - generic [ref=e599]:
+              - generic [ref=e600]: Have
+              - generic [ref=e601]: a
+              - generic [ref=e602]: question?
+            - emphasis [ref=e603]:
+              - generic [ref=e604]: We're
+              - generic [ref=e605]: here
+              - generic [ref=e606]: to
+              - generic [ref=e607]: help.
+          - generic [ref=e608]:
+            - paragraph [ref=e609]: Everything you need to know before booking your appointment.
+            - paragraph [ref=e610]: Still have questions? Our team is happy to assist you.
+          - link [ref=e613] [cursor=pointer]:
+            - /url: ./contact
+            - paragraph [ref=e615]: Contact
+        - generic [ref=e621]:
+          - heading "Do I need a consultation before booking a treatment?" [level=5] [ref=e627] [cursor=pointer]
+          - heading "How do I prepare for my appointment?" [level=5] [ref=e636] [cursor=pointer]
+          - heading "Is there any downtime?" [level=5] [ref=e645] [cursor=pointer]
+          - heading "Are your treatments safe?" [level=5] [ref=e654] [cursor=pointer]
+          - heading "Can I combine treatments?" [level=5] [ref=e663] [cursor=pointer]
+          - heading "What is your cancellation policy?" [level=5] [ref=e672] [cursor=pointer]
+    - link [ref=e677] [cursor=pointer]:
+      - /url: https://lutestudios.lemonsqueezy.com/checkout/buy/3e5a7e63-3abe-48c4-98c8-8088c8bb5aa6
+      - button [ref=e679]:
+        - paragraph [ref=e681]: Get Template
+    - generic [ref=e683]:
+      - generic [ref=e684]:
+        - generic [ref=e685]:
+          - heading "Éclat Aesthetics." [level=3] [ref=e687]
+          - paragraph [ref=e689]: Combining nature and science, we create skincare that nurtures your skin and respects the planet. Healthy, radiant skin starts here.
+        - generic [ref=e690]:
+          - generic [ref=e693] [cursor=pointer]
+          - generic [ref=e697] [cursor=pointer]
+          - generic [ref=e701] [cursor=pointer]
+      - generic [ref=e703]:
+        - generic [ref=e704]:
+          - heading "Pages" [level=4] [ref=e706]
+          - link [ref=e707] [cursor=pointer]:
+            - /url: ./services
+            - paragraph [ref=e709]: Services
+          - link [ref=e710] [cursor=pointer]:
+            - /url: ./prices
+            - paragraph [ref=e712]: Prices
+          - link [ref=e713] [cursor=pointer]:
+            - /url: ./about
+            - paragraph [ref=e715]: About
+          - link [ref=e716] [cursor=pointer]:
+            - /url: ./contact
+            - paragraph [ref=e718]: Contact
+          - link [ref=e719] [cursor=pointer]:
+            - /url: ./blog
+            - paragraph [ref=e721]: Blog
+        - generic [ref=e723]:
+          - heading "Utility" [level=4] [ref=e725]
+          - link [ref=e726] [cursor=pointer]:
+            - /url: ./404
+            - paragraph [ref=e728]: "404"
+        - generic [ref=e730]:
+          - heading "Contact" [level=4] [ref=e732]
+          - paragraph [ref=e734]: info@eclataesthetics.com
+          - paragraph [ref=e736]: +(555) 123-4567
+          - link [ref=e739] [cursor=pointer]:
+            - /url: ./contact
+            - paragraph [ref=e741]: Contact Us
+        - generic [ref=e748]:
+          - heading "Location" [level=4] [ref=e750]
+          - paragraph [ref=e752]: Museumplein 21, 1071 DJ Amsterdam
+          - generic [ref=e753]:
+            - paragraph [ref=e755]: Monday to Friday
+            - paragraph [ref=e757]: 10am - 6pm
+          - generic [ref=e758]:
+            - paragraph [ref=e760]: Saturday
+            - paragraph [ref=e762]: 10am - 7pm
+          - generic [ref=e763]:
+            - paragraph [ref=e768] [cursor=pointer]: Home
+            - paragraph [ref=e770]: Sunday
+            - paragraph [ref=e772]: Closed
+      - generic [ref=e773]:
+        - paragraph [ref=e775]: © Made by Lute Studios
+        - paragraph [ref=e777]: Terms and Conditions
+  - link [ref=e778] [cursor=pointer]:
+    - /url: https://www.framer.com
+    - paragraph [ref=e783]: Create a free website with Framer, the website builder loved by startups, designers and agencies.

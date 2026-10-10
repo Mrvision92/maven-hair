@@ -1,0 +1,398 @@
+- generic [active] [ref=e1]:
+  - link "Aller au contenu principal" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link [ref=e5] [cursor=pointer]:
+        - /url: /fr
+        - img "Stone Spa" [ref=e6]
+      - navigation "Stone Spa" [ref=e7]:
+        - list [ref=e8]:
+          - listitem [ref=e9]:
+            - link "Accueil" [ref=e10] [cursor=pointer]:
+              - /url: /fr
+          - listitem [ref=e11]:
+            - link "L'expérience" [ref=e12] [cursor=pointer]:
+              - /url: /fr/experience
+          - listitem [ref=e13]:
+            - link "Formules" [ref=e14] [cursor=pointer]:
+              - /url: /fr/formules
+          - listitem [ref=e15]:
+            - link "Galerie" [ref=e16] [cursor=pointer]:
+              - /url: /fr/galerie
+          - listitem [ref=e17]:
+            - link "Informations" [ref=e18] [cursor=pointer]:
+              - /url: /fr/informations
+      - generic [ref=e19]:
+        - group "Langue" [ref=e20]:
+          - link "Français" [ref=e22] [cursor=pointer]:
+            - /url: /fr
+            - text: FR
+          - generic [ref=e23]:
+            - generic [aria-hidden] [ref=e24]: /
+            - link "Nederlands" [ref=e25] [cursor=pointer]:
+              - /url: /nl
+              - text: NL
+          - generic [ref=e26]:
+            - generic [aria-hidden] [ref=e27]: /
+            - link "English" [ref=e28] [cursor=pointer]:
+              - /url: /en
+              - text: EN
+        - button "Réserver" [ref=e29] [cursor=pointer]
+  - main [ref=e30]:
+    - generic [ref=e31]:
+      - generic [ref=e32]:
+        - img "Piscine intérieure éclairée d'une lumière chaude, murs de bois sombre." [ref=e35]
+        - generic [ref=e38]:
+          - generic [ref=e39]:
+            - paragraph [ref=e40]: Spa privatif · Sint-Pieters-Leeuw
+            - heading "Le luxe de ralentir, en toute intimité." [level=1] [ref=e41]
+            - paragraph [ref=e42]: Un espace entièrement privatisé pour 2 à 6 adultes, accessible 24h/24 sur réservation, aux portes de Bruxelles.
+            - generic [ref=e43]:
+              - button "Réserver votre moment" [ref=e44] [cursor=pointer]
+              - link "Découvrir Stone Spa" [ref=e45] [cursor=pointer]:
+                - /url: "#intro"
+          - generic [ref=e46]:
+            - paragraph [ref=e47]: Piscine · Jacuzzi · Sauna · Nuitée
+            - link "Faire défiler" [ref=e48] [cursor=pointer]:
+              - /url: "#intro"
+      - generic [ref=e53]:
+        - generic [ref=e54]:
+          - img "Détail des lattes de bois d'une banquette de sauna." [ref=e57]
+          - paragraph [ref=e58]: De 2 à 6 personnes · 18+ · Sur réservation
+        - generic [ref=e59]:
+          - generic [ref=e60]:
+            - generic [ref=e61]: Le lieu
+            - heading "Quelques heures loin du monde." [level=2] [ref=e62]
+          - generic [ref=e65]:
+            - paragraph [ref=e67]: Stone Spa est un espace entièrement privatisé où le temps reprend une autre allure. Piscine, jacuzzi, sauna et espace de repos sont exclusivement réservés à votre groupe durant toute la séance.
+            - paragraph [ref=e69]: Pas de vestiaire commun, pas d'autres visiteurs, pas de créneau partagé. Vous arrivez, la porte se referme, et l'endroit vous appartient jusqu'à la fin de votre réservation.
+          - generic [ref=e70]:
+            - separator [ref=e71]
+            - paragraph [ref=e72]: « Un spa entièrement privatisé, rien que pour vous. »
+      - generic [ref=e74]:
+        - generic [ref=e75]:
+          - generic [ref=e76]:
+            - generic [ref=e77]: "01"
+            - generic [ref=e78]: Les installations
+          - heading "Tout est à vous, pendant toute la séance." [level=2] [ref=e79]
+        - generic [ref=e82]:
+          - article [ref=e83]:
+            - img "Longueur d'eau calme éclairée par un bandeau lumineux chaud." [ref=e87]
+            - generic [ref=e88]:
+              - text: "01"
+              - heading "Piscine privée" [level=3] [ref=e89]
+              - paragraph [ref=e90]: Profitez de la piscine dans un espace entièrement réservé à votre groupe.
+          - article [ref=e91]:
+            - img "Bain à remous encastré dans un habillage de bois et de mosaïque sombre." [ref=e95]
+            - generic [ref=e96]:
+              - text: "02"
+              - heading "Jacuzzi" [level=3] [ref=e97]
+              - paragraph [ref=e98]: Laissez la chaleur et les mouvements de l'eau installer un véritable moment de relâchement.
+          - article [ref=e99]:
+            - img "Banquettes de sauna soulignées par un éclairage indirect très doux." [ref=e103]
+            - generic [ref=e104]:
+              - text: "03"
+              - heading "Sauna" [level=3] [ref=e105]
+              - paragraph [ref=e106]: Une chaleur enveloppante pour ralentir, respirer et couper avec l'extérieur.
+          - article [ref=e107]:
+            - img "Espace de repos très sombre, assises basses et lampes chaudes." [ref=e111]
+            - generic [ref=e112]:
+              - text: "04"
+              - heading "Espace de repos" [level=3] [ref=e113]
+              - paragraph [ref=e114]: Un lit et un espace calme prolongent l'expérience entre deux moments dans l'eau.
+        - generic [ref=e116]:
+          - generic [ref=e117]:
+            - text: "05"
+            - heading "Peignoirs" [level=3] [ref=e118]
+            - paragraph [ref=e119]: Des peignoirs sont mis à disposition pendant votre réservation.
+          - img "Peignoir clair suspendu devant une paroi de pierre sombre." [ref=e122]
+        - generic [ref=e124]:
+          - paragraph [ref=e125]: Tout cet espace, pour votre groupe et personne d'autre.
+          - button "Réserver" [ref=e127] [cursor=pointer]
+      - generic [ref=e129]:
+        - generic [ref=e130]:
+          - generic [ref=e131]:
+            - generic [ref=e132]:
+              - generic [ref=e133]: "02"
+              - generic [ref=e134]: Formules
+            - heading "Choisissez votre durée." [level=2] [ref=e135]
+            - paragraph [ref=e138]: Chaque formule donne accès à l'ensemble de l'espace. La durée réservée est la seule variable.
+          - link "Voir toutes les formules" [ref=e140] [cursor=pointer]:
+            - /url: /fr/formules
+        - generic [ref=e144]:
+          - list [ref=e145]:
+            - listitem [ref=e146]:
+              - paragraph [ref=e147]: 2 heures
+              - heading "Essentiel" [level=3] [ref=e148]
+              - generic [ref=e149]:
+                - paragraph [ref=e150]: à partir de
+                - paragraph [ref=e151]: 199 €
+                - button "Réserver" [ref=e152] [cursor=pointer]
+            - listitem [ref=e153]:
+              - paragraph [ref=e154]: 3 heures
+              - heading "Évasion" [level=3] [ref=e155]
+              - generic [ref=e156]:
+                - paragraph [ref=e157]: à partir de
+                - paragraph [ref=e158]: 259 €
+                - button "Réserver" [ref=e159] [cursor=pointer]
+            - listitem [ref=e160]:
+              - paragraph [ref=e161]: 4 heures
+              - heading "Immersion" [level=3] [ref=e162]
+              - paragraph [ref=e163]: Le temps idéal pour pleinement profiter de l'espace.
+              - generic [ref=e164]:
+                - paragraph [ref=e165]: à partir de
+                - paragraph [ref=e166]: 319 €
+                - button "Réserver" [ref=e167] [cursor=pointer]
+            - listitem [ref=e168]:
+              - paragraph [ref=e169]: 5 heures
+              - heading "Signature" [level=3] [ref=e170]
+              - generic [ref=e171]:
+                - paragraph [ref=e172]: à partir de
+                - paragraph [ref=e173]: 379 €
+                - button "Réserver" [ref=e174] [cursor=pointer]
+            - listitem [ref=e175]:
+              - paragraph [ref=e176]: 6 heures
+              - heading "Absolue" [level=3] [ref=e177]
+              - generic [ref=e178]:
+                - paragraph [ref=e179]: à partir de
+                - paragraph [ref=e180]: 439 €
+                - button "Réserver" [ref=e181] [cursor=pointer]
+            - listitem [ref=e182]:
+              - paragraph [ref=e183]: Nuitée
+              - heading "Nuit Stone" [level=3] [ref=e184]
+              - generic [ref=e185]:
+                - paragraph [ref=e186]: à partir de
+                - paragraph [ref=e187]: 499 €
+                - button "Réserver" [ref=e188] [cursor=pointer]
+          - generic [ref=e189]:
+            - paragraph [ref=e190]: Le tarif de base couvre 2 personnes. Chaque personne supplémentaire est facturée 40 €, jusqu'à 6 personnes.
+            - paragraph [ref=e191]: Tarifs provisoires susceptibles d'être adaptés avant l'ouverture officielle des réservations.
+        - generic [ref=e193]:
+          - paragraph [ref=e194]: Une durée en tête ? Le créneau se réserve en quelques minutes.
+          - button "Réserver" [ref=e196] [cursor=pointer]
+      - generic [ref=e197]:
+        - img "Lit dans une pièce sombre éclairée par deux lampes de chevet." [ref=e200]
+        - generic [ref=e203]:
+          - generic [ref=e204]: Nuit Stone
+          - heading "Lorsque quelques heures ne suffisent plus." [level=2] [ref=e205]
+          - paragraph [ref=e208]: Prolongez l'expérience et passez la nuit dans votre espace privatif. La formule Nuit Stone réunit détente, intimité et repos dans une seule réservation.
+          - generic [ref=e209]:
+            - button "Réserver" [ref=e210] [cursor=pointer]
+            - link "Découvrir la nuitée" [ref=e211] [cursor=pointer]:
+              - /url: /fr/formules
+          - paragraph [ref=e214]: Les horaires et détails complets seront communiqués lors de la réservation.
+      - generic [ref=e216]:
+        - generic [ref=e217]:
+          - generic [ref=e218]:
+            - generic [ref=e219]:
+              - generic [ref=e220]: "03"
+              - generic [ref=e221]: Boire et manger sur place
+            - heading "Votre commande, servie dans votre espace." [level=2] [ref=e222]
+          - paragraph [ref=e226]: Stone Spa dispose d'un menu interne. Passez votre commande auprès de la réception et profitez de votre repas sans interrompre votre moment.
+        - generic [ref=e227]:
+          - img "Un plateau de boissons déposé sur une table basse, près d'une banquette." [ref=e231]
+          - generic [ref=e232]:
+            - paragraph [ref=e233]: "Vous ne quittez pas votre espace : on vient à vous."
+            - list [ref=e234]:
+              - listitem [ref=e235]:
+                - generic [ref=e236]: "01"
+                - generic [ref=e237]:
+                  - generic [ref=e238]: Vous commandez
+                  - generic [ref=e239]: Depuis votre espace, auprès de la réception.
+              - listitem [ref=e240]:
+                - generic [ref=e241]: "02"
+                - generic [ref=e242]:
+                  - generic [ref=e243]: Nous préparons
+                  - generic [ref=e244]: À partir du menu interne de Stone Spa.
+              - listitem [ref=e245]:
+                - generic [ref=e246]: "03"
+                - generic [ref=e247]:
+                  - generic [ref=e248]: On vous l'apporte
+                  - generic [ref=e249]: Directement dans votre espace privatif.
+        - list [ref=e250]:
+          - listitem [ref=e251]:
+            - img "Planche garnie posée sur une nappe sombre, à partager." [ref=e253]
+            - generic [ref=e254]:
+              - heading "À partager" [level=3] [ref=e255]
+              - paragraph [ref=e256]: De quoi picorer à plusieurs, entre deux passages dans l'eau.
+          - listitem [ref=e257]:
+            - img "Table dressée à la bougie, assiettes et petites portions." [ref=e259]
+            - generic [ref=e260]:
+              - heading "Plats et douceurs" [level=3] [ref=e261]
+              - paragraph [ref=e262]: Des assiettes plus consistantes, et de quoi finir sur une note sucrée.
+          - listitem [ref=e263]:
+            - img "Verres et couverts disposés sur une table sombre." [ref=e265]
+            - generic [ref=e266]:
+              - heading "Boissons" [level=3] [ref=e267]
+              - paragraph [ref=e268]: Chaudes ou fraîches, à commander à tout moment de la séance.
+        - paragraph [ref=e270]: Menu complet prochainement disponible.
+      - generic [ref=e273]:
+        - generic [ref=e274]:
+          - generic [ref=e275]:
+            - generic [ref=e276]: Occasions
+            - heading "Un lieu, plusieurs raisons d'y venir." [level=2] [ref=e277]
+          - paragraph [ref=e281]: Stone Spa s'adapte à vos moments, sans jamais sacrifier l'intimité du lieu.
+        - list [ref=e282]:
+          - listitem [ref=e283]:
+            - generic [ref=e284]: "01"
+            - generic [ref=e285]: Moment en couple
+            - generic [ref=e286]: Quelques heures sans personne d'autre autour.
+          - listitem [ref=e287]:
+            - generic [ref=e288]: "02"
+            - generic [ref=e289]: Anniversaire
+            - generic [ref=e290]: Fêter à quelques-uns, au calme.
+          - listitem [ref=e291]:
+            - generic [ref=e292]: "03"
+            - generic [ref=e293]: Soirée entre amis
+            - generic [ref=e294]: Jusqu'à six, dans un espace fermé.
+          - listitem [ref=e295]:
+            - generic [ref=e296]: "04"
+            - generic [ref=e297]: Occasion spéciale
+            - generic [ref=e298]: Un cadre qui n'a besoin de rien d'autre.
+          - listitem [ref=e299]:
+            - generic [ref=e300]: "05"
+            - generic [ref=e301]: Pause détente
+            - generic [ref=e302]: Sans raison particulière, simplement pour souffler.
+          - listitem [ref=e303]:
+            - generic [ref=e304]: "06"
+            - generic [ref=e305]: Nuit privée
+            - generic [ref=e306]: L'expérience prolongée jusqu'au lendemain.
+      - generic [ref=e308]:
+        - generic [ref=e309]:
+          - generic [ref=e310]:
+            - generic [ref=e311]:
+              - generic [ref=e312]: "04"
+              - generic [ref=e313]: Galerie
+            - heading "Un aperçu de l'atmosphère." [level=2] [ref=e314]
+          - link "Voir toute la galerie" [ref=e318] [cursor=pointer]:
+            - /url: /fr/galerie
+        - generic [ref=e321]:
+          - img "Bassin intérieur bordé d'assises basses, dans une lumière tamisée." [ref=e324]
+          - img "Poêle de sauna garni de pierres, au centre d'une pièce en bois." [ref=e327]
+          - img "Chambre sombre aux textures mates et à l'éclairage discret." [ref=e330]
+          - img "Bassin rond en bois dans une pièce chaude aux parois lambrissées." [ref=e333]
+          - img "Reflets sur l'eau d'un bassin intérieur aux tons sombres." [ref=e336]
+          - img "Gros plan sur les pierres chaudes d'un poêle de sauna." [ref=e339]
+          - img "Marches de bois descendant vers l'eau d'un bassin intérieur." [ref=e342]
+        - generic [ref=e344]:
+          - paragraph [ref=e345]: Le lieu se comprend mieux une fois la porte refermée.
+          - generic [ref=e346]:
+            - button "Réserver" [ref=e347] [cursor=pointer]
+            - link "Écrire sur WhatsApp" [ref=e348] [cursor=pointer]:
+              - /url: https://wa.me/32496309000?text=Bonjour%20Stone%20Spa%2C%20je%20souhaite%20obtenir%20des%20informations%20pour%20une%20r%C3%A9servation.
+      - generic [ref=e353]:
+        - generic [ref=e354]:
+          - generic [ref=e355]:
+            - generic [ref=e356]:
+              - generic [ref=e357]: "05"
+              - generic [ref=e358]: Informations pratiques
+            - heading "L'essentiel avant de venir." [level=2] [ref=e359]
+          - list [ref=e363]:
+            - listitem [ref=e364]: Spa 100 % privatif
+            - listitem [ref=e366]: De 2 à 6 adultes
+            - listitem [ref=e368]: Réservé aux personnes de 18 ans et plus
+            - listitem [ref=e370]: Ouvert 24h/24 sur réservation
+        - generic [ref=e373]:
+          - heading "Adresse" [level=3] [ref=e374]
+          - generic [ref=e375]: Frans Demolstraat 21600 Sint-Pieters-Leeuw
+          - separator [ref=e376]
+          - heading "Contact" [level=3] [ref=e377]
+          - list [ref=e378]:
+            - listitem [ref=e379]:
+              - link "+32 496 30 90 00" [ref=e380] [cursor=pointer]:
+                - /url: tel:+32496309000
+            - listitem [ref=e383]:
+              - link "stone-spa@outlook.com" [ref=e384] [cursor=pointer]:
+                - /url: mailto:stone-spa@outlook.com
+          - generic [ref=e388]:
+            - button "Réserver votre moment" [ref=e389] [cursor=pointer]
+            - link "Écrire sur WhatsApp" [ref=e390] [cursor=pointer]:
+              - /url: https://wa.me/32496309000?text=Bonjour%20Stone%20Spa%2C%20je%20souhaite%20obtenir%20des%20informations%20pour%20une%20r%C3%A9servation.
+            - link "Ouvrir dans Google Maps" [ref=e393] [cursor=pointer]:
+              - /url: https://www.google.com/maps/search/?api=1&query=Stone%20Spa%2C%20Frans%20Demolstraat%202%2C%201600%20Sint-Pieters-Leeuw%2C%20Belgique
+      - generic [ref=e402]:
+        - heading "Le reste peut attendre." [level=2] [ref=e403]
+        - paragraph [ref=e406]: Choisissez votre durée et réservez votre espace entièrement privé.
+        - generic [ref=e407]:
+          - button "Réserver maintenant" [ref=e408] [cursor=pointer]
+          - link "Poser une question sur WhatsApp" [ref=e409] [cursor=pointer]:
+            - /url: https://wa.me/32496309000?text=Bonjour%20Stone%20Spa%2C%20je%20souhaite%20obtenir%20des%20informations%20pour%20une%20r%C3%A9servation.
+  - contentinfo [ref=e412]:
+    - generic [ref=e413]:
+      - generic [ref=e414]:
+        - generic [ref=e415]:
+          - img "Stone Spa" [ref=e416]
+          - paragraph [ref=e417]: Un spa entièrement privatisé, rien que pour vous.
+          - generic [ref=e418]: Frans Demolstraat 21600 Sint-Pieters-LeeuwBelgique
+        - navigation "Navigation" [ref=e419]:
+          - heading "Navigation" [level=2] [ref=e420]
+          - list [ref=e421]:
+            - listitem [ref=e422]:
+              - link "Accueil" [ref=e423] [cursor=pointer]:
+                - /url: /fr
+            - listitem [ref=e424]:
+              - link "L'expérience" [ref=e425] [cursor=pointer]:
+                - /url: /fr/experience
+            - listitem [ref=e426]:
+              - link "Formules" [ref=e427] [cursor=pointer]:
+                - /url: /fr/formules
+            - listitem [ref=e428]:
+              - link "Galerie" [ref=e429] [cursor=pointer]:
+                - /url: /fr/galerie
+            - listitem [ref=e430]:
+              - link "Informations" [ref=e431] [cursor=pointer]:
+                - /url: /fr/informations
+        - generic [ref=e432]:
+          - heading "Contact" [level=2] [ref=e433]
+          - list [ref=e434]:
+            - listitem [ref=e435]:
+              - link "+32 496 30 90 00" [ref=e436] [cursor=pointer]:
+                - /url: tel:+32496309000
+            - listitem [ref=e437]:
+              - link "WhatsApp" [ref=e438] [cursor=pointer]:
+                - /url: https://wa.me/32496309000?text=Bonjour%20Stone%20Spa%2C%20je%20souhaite%20obtenir%20des%20informations%20pour%20une%20r%C3%A9servation.
+            - listitem [ref=e441]:
+              - link "stone-spa@outlook.com" [ref=e442] [cursor=pointer]:
+                - /url: mailto:stone-spa@outlook.com
+            - listitem [ref=e443]: 24h/24, 7j/7 — sur réservation
+        - generic [ref=e444]:
+          - heading "Informations légales" [level=2] [ref=e445]
+          - list [ref=e446]:
+            - listitem [ref=e447]:
+              - link "Confidentialité" [ref=e448] [cursor=pointer]:
+                - /url: /fr/confidentialite
+            - listitem [ref=e449]:
+              - link "Cookies" [ref=e450] [cursor=pointer]:
+                - /url: /fr/cookies
+            - listitem [ref=e451]:
+              - link "Conditions" [ref=e452] [cursor=pointer]:
+                - /url: /fr/conditions
+            - listitem [ref=e453]:
+              - button "Préférences de cookies" [ref=e454]
+          - heading "Langue" [level=2] [ref=e455]
+          - group "Langue" [ref=e456]:
+            - link "Français" [ref=e457] [cursor=pointer]:
+              - /url: /fr
+              - text: FR
+            - link "Nederlands" [ref=e458] [cursor=pointer]:
+              - /url: /nl
+              - text: NL
+            - link "English" [ref=e459] [cursor=pointer]:
+              - /url: /en
+              - text: EN
+      - generic [ref=e460]:
+        - paragraph [ref=e461]: © 2026 Stone Spa. Tous droits réservés.
+        - paragraph [ref=e462]: Frans Demolstraat 2, 1600 Sint-Pieters-Leeuw
+  - dialog [ref=e463]:
+    - generic [ref=e464]:
+      - heading "Cookies" [level=2] [ref=e465]
+      - paragraph [ref=e466]: Nous utilisons uniquement les cookies nécessaires au fonctionnement du site. Les cookies de mesure d'audience et les contenus externes ne sont chargés qu'avec votre accord.
+      - generic [ref=e467]:
+        - button "Tout accepter" [ref=e468] [cursor=pointer]
+        - button "Personnaliser" [ref=e469] [cursor=pointer]
+      - generic [ref=e470]:
+        - button "Continuer sans accepter" [ref=e471]
+        - link "Politique en matière de cookies" [ref=e472] [cursor=pointer]:
+          - /url: /fr/cookies
+  - alert [ref=e473]

@@ -1,0 +1,184 @@
+- generic [active] [ref=f1e1]:
+  - generic [ref=f1e2]:
+    - generic [ref=f1e4]:
+      - paragraph [ref=f1e8]: My Waer Waters
+      - heading "L'application membre de Waer Waters." [level=1] [ref=f1e9]
+      - paragraph [ref=f1e10]: Votre wellness. Votre rythme.
+    - generic [ref=f1e17]:
+      - generic [ref=f1e19]: 9:41
+      - img "Pass membre" [ref=f1e31]
+    - generic [ref=f1e38]:
+      - generic [ref=f1e40]: 9:41
+      - img "Écran d'accueil" [ref=f1e52]
+    - generic [ref=f1e53]:
+      - generic [ref=f1e54]: Concept — Gym Club
+      - generic [ref=f1e55]: Septembre 2026
+  - generic [ref=f1e56]:
+    - generic [ref=f1e58]:
+      - paragraph [ref=f1e59]: Le constat
+      - heading "Aujourd'hui, l'expérience membre passe par l'accueil." [level=2] [ref=f1e60]
+      - generic [ref=f1e61]:
+        - generic [ref=f1e62]:
+          - paragraph [ref=f1e63]: "01"
+          - heading "Réserver un cours" [level=3] [ref=f1e64]
+          - paragraph [ref=f1e65]: Un appel, un passage au comptoir, un message — pour chaque séance, chaque semaine, chaque membre.
+        - generic [ref=f1e66]:
+          - paragraph [ref=f1e67]: "02"
+          - heading "Gérer son abonnement" [level=3] [ref=f1e68]
+          - paragraph [ref=f1e69]: "Pauses, changements de formule, factures : des emails dispersés, sans suivi visible pour le membre."
+        - generic [ref=f1e70]:
+          - paragraph [ref=f1e71]: "03"
+          - heading "Le resort reste invisible" [level=3] [ref=f1e72]
+          - paragraph [ref=f1e73]: "Wellness, beauty, hôtel, restaurants : le membre gym passe à côté de ce qui fait la force de Waer Waters."
+      - paragraph [ref=f1e74]: Du temps d'équipe consommé — et des occasions de mieux servir chaque membre.
+    - generic [ref=f1e75]:
+      - generic [ref=f1e76]: My Waer Waters
+      - generic [ref=f1e77]: "02"
+  - generic [ref=f1e78]:
+    - generic [ref=f1e79]:
+      - paragraph [ref=f1e80]: La solution
+      - heading "Une application. Toute l'expérience membre." [level=2] [ref=f1e81]
+    - generic [ref=f1e82]:
+      - generic [ref=f1e83]:
+        - generic [ref=f1e90]:
+          - generic [ref=f1e92]: 9:41
+          - img "Planning des cours" [ref=f1e104]
+        - paragraph [ref=f1e105]:
+          - generic [ref=f1e106]: Le planning, vivant
+          - text: Chaque cours en photo, avec coach, niveau et places restantes.
+      - generic [ref=f1e107]:
+        - generic [ref=f1e114]:
+          - generic [ref=f1e116]: 9:41
+          - img "Fiche de cours" [ref=f1e128]
+        - paragraph [ref=f1e129]:
+          - generic [ref=f1e130]: Des fiches complètes
+          - text: Pour qui, quels bénéfices, durée, intensité — on sait où l'on va.
+      - generic [ref=f1e131]:
+        - generic [ref=f1e138]:
+          - generic [ref=f1e140]: 9:41
+          - img "Accueil personnalisé" [ref=f1e152]
+        - paragraph [ref=f1e153]:
+          - generic [ref=f1e154]: Un accueil personnalisé
+          - text: Le prochain cours, le pass, la journée au club — en un regard.
+  - generic [ref=f1e155]:
+    - generic [ref=f1e156]:
+      - generic [ref=f1e157]:
+        - paragraph [ref=f1e158]: Réservations
+        - heading "Réserver en trois gestes. S'organiser tout seul." [level=2] [ref=f1e159]: Réserver en trois gestes.S'organiser tout seul.
+        - list [ref=f1e160]:
+          - listitem [ref=f1e161]:
+            - generic [ref=f1e162]: ✓
+            - generic [ref=f1e163]:
+              - generic [ref=f1e164]: Réservation instantanée
+              - text: Les places se mettent à jour en direct ; l'agenda du membre suit.
+          - listitem [ref=f1e165]:
+            - generic [ref=f1e166]: ✓
+            - generic [ref=f1e167]:
+              - generic [ref=f1e168]: Listes d'attente automatiques
+              - text: Cours complet ? Le membre voit sa position et est prévenu dès qu'une place se libère.
+          - listitem [ref=f1e169]:
+            - generic [ref=f1e170]: ✓
+            - generic [ref=f1e171]:
+              - generic [ref=f1e172]: Annulation en un geste
+              - text: La place libérée repart aussitôt vers la liste d'attente — sans intervention de l'équipe.
+      - generic [ref=f1e180]:
+        - generic [ref=f1e182]: 9:41
+        - img "Mes réservations" [ref=f1e194]
+    - generic [ref=f1e195]:
+      - generic [ref=f1e196]: My Waer Waters
+      - generic [ref=f1e197]: "04"
+  - generic [ref=f1e198]:
+    - generic [ref=f1e199]:
+      - generic [ref=f1e207]:
+        - generic [ref=f1e209]: 9:41
+        - img "Pass membre" [ref=f1e221]
+      - generic [ref=f1e222]:
+        - paragraph [ref=f1e223]: Le club dans la poche
+        - 'heading "Accès, abonnement, demandes : en self-service." [level=2] [ref=f1e224]'
+        - list [ref=f1e225]:
+          - listitem [ref=f1e226]:
+            - generic [ref=f1e227]: ✓
+            - generic [ref=f1e228]:
+              - generic [ref=f1e229]: Pass d'accès QR
+              - text: La carte membre, toujours sur soi — scannée à l'entrée.
+          - listitem [ref=f1e230]:
+            - generic [ref=f1e231]: ✓
+            - generic [ref=f1e232]:
+              - generic [ref=f1e233]: Abonnement géré dans l'app
+              - text: "Sport, Luxe, Infinite : comparer et changer de formule en deux écrans."
+          - listitem [ref=f1e234]:
+            - generic [ref=f1e235]: ✓
+            - generic [ref=f1e236]:
+              - generic [ref=f1e237]: Centre de demandes suivi
+              - text: Pause, facture, question — chaque demande a un statut visible. Fini les emails sans réponse.
+    - generic [ref=f1e238]:
+      - generic [ref=f1e239]: My Waer Waters
+      - generic [ref=f1e240]: "05"
+  - generic [ref=f1e241]:
+    - generic [ref=f1e242]:
+      - generic [ref=f1e243]:
+        - paragraph [ref=f1e244]: Discover
+        - heading "Une porte d'entrée vers tout le resort." [level=2] [ref=f1e245]
+        - paragraph [ref=f1e246]: "Wellness, beauty, hôtel, restaurants : chaque univers se présente dans l'app — belle image, promesse claire — puis renvoie vers waerwaters.com. Et après l'effort, l'app souffle au membre le moment de récupérer."
+        - generic [ref=f1e247]:
+          - generic [ref=f1e248]: 28 saunas
+          - generic [ref=f1e249]: 27 bains
+          - generic [ref=f1e250]: 15 espaces de repos
+      - generic [ref=f1e259]:
+        - generic [ref=f1e261]: 9:41
+        - img "Discover" [ref=f1e273]
+    - generic [ref=f1e274]:
+      - generic [ref=f1e275]: My Waer Waters
+      - generic [ref=f1e276]: "06"
+  - generic [ref=f1e277]:
+    - generic [ref=f1e278]:
+      - paragraph [ref=f1e279]: Ce que ça change
+      - heading "Moins de comptoir. Plus de club." [level=2] [ref=f1e280]
+      - generic [ref=f1e281]:
+        - generic [ref=f1e282]:
+          - paragraph [ref=f1e283]: 0 appel
+          - heading "Pour réserver" [level=3] [ref=f1e284]
+          - paragraph [ref=f1e285]: Les cours se réservent, s'annulent et se gèrent dans l'app — l'accueil respire.
+        - generic [ref=f1e286]:
+          - paragraph [ref=f1e287]: 1 geste
+          - heading "Pour entrer" [level=3] [ref=f1e288]
+          - paragraph [ref=f1e289]: "Le pass QR remplace la carte : toujours sur soi, jamais oublié."
+        - generic [ref=f1e290]:
+          - paragraph [ref=f1e291]: 24/7
+          - heading "Self-service" [level=3] [ref=f1e292]
+          - paragraph [ref=f1e293]: Abonnement, pauses, factures, demandes — à toute heure, avec un suivi visible.
+        - generic [ref=f1e294]:
+          - paragraph [ref=f1e295]: + resort
+          - heading "Sous les yeux" [level=3] [ref=f1e296]
+          - paragraph [ref=f1e297]: "Wellness, beauty, hôtel, dining : présentés au bon moment, au bon membre."
+    - generic [ref=f1e298]:
+      - generic [ref=f1e299]: My Waer Waters
+      - generic [ref=f1e300]: "07"
+  - generic [ref=f1e301]:
+    - generic [ref=f1e302]:
+      - paragraph [ref=f1e303]: La suite
+      - heading "D'un concept à votre application." [level=2] [ref=f1e304]
+      - generic [ref=f1e305]:
+        - generic [ref=f1e306]:
+          - paragraph [ref=f1e307]: "01"
+          - heading "Valider le concept" [level=3] [ref=f1e308]
+          - paragraph [ref=f1e309]: Le parcours membre complet, à prendre en main.
+        - generic [ref=f1e310]:
+          - paragraph [ref=f1e311]: "02"
+          - heading "Affiner ensemble" [level=3] [ref=f1e312]
+          - paragraph [ref=f1e313]: Contenus, langues (FR·NL·EN), photographie officielle, identité finale.
+        - generic [ref=f1e314]:
+          - paragraph [ref=f1e315]: "03"
+          - heading "Connecter" [level=3] [ref=f1e316]
+          - paragraph [ref=f1e317]: Réservations, contrôle d'accès, abonnements, paiement — vos systèmes.
+        - generic [ref=f1e318]:
+          - paragraph [ref=f1e319]: "04"
+          - heading "Lancer un pilote" [level=3] [ref=f1e320]
+          - paragraph [ref=f1e321]: Un groupe de membres Gym Club, des retours réels, puis l'ouverture à tous.
+      - paragraph [ref=f1e322]: "Chaque étape reste fidèle à une idée simple : le calme et le soin de Waer Waters, jusque dans la poche du membre."
+    - generic [ref=f1e323]:
+      - generic [ref=f1e324]: My Waer Waters — concept
+      - generic [ref=f1e325]: "08"
+  - generic [ref=f1e328]:
+    - paragraph [ref=f1e332]: Waer Waters
+    - paragraph [ref=f1e333]: Votre wellness. Votre rythme.
